@@ -67,3 +67,10 @@ CRISP-DM (Cross-Industry Standard Process for Data Mining) is a widely used meth
 11.3 Stage all files.
 11.4 Commit files.
 11.5 Push to remote repository.
+
+12.1 Review the project and generate a README.md report.
+
+12.2 Add demo site link to README.md.
+
+13.1 Stage README.md.
+13.2 Commit README.md with message "add README.md".
